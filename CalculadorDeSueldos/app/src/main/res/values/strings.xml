@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculadorDeSueldos</string>
+    <string name="title_activity_empleado_honorarios_ui">EmpleadoHonorariosUI</string>
+</resources>
